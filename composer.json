@@ -1,0 +1,21 @@
+{
+  "name": "spryker-feature/availability-notification",
+  "description": "Availability Notification [feature]",
+  "type": "metapackage",
+  "license": "proprietary",
+  "minimum-stability": "dev",
+  "prefer-stable": true,
+  "require": {
+    "php": ">=7.1",
+    "spryker-feature/inventory-management": "^201902.0",
+    "spryker-feature/product": "^201902.0",
+    "spryker-shop/availability-notification-page": "^1.0.0",
+    "spryker-shop/availability-notification-widget": "^1.0.0",
+    "spryker/availability-notification": "^1.0.0"
+  },
+  "extra": {
+    "branch-alias": {
+      "dev-master": "201902.x-dev"
+    }
+  }
+}
