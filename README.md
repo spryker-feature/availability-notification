@@ -1,6 +1,6 @@
 # Spryker Feature: Availability Notification
 
-Allows users to subscribe for product availability and be notified when product is back in the stock again.
+Allows users to subscribe to product availability notifications to receive emails when a product that was out of stock, is back in stock again.
 
 ## Installation
 
