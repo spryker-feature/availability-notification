@@ -7,3 +7,10 @@ Allows users to subscribe to product availability notifications to receive email
 ```
 composer require spryker-feature/availability-notification
 ```
+
+## Recommended feature dependencies
+- [spryker-feature/inventory-management](https://github.com/spryker-feature/inventory-management)
+- [spryker-feature/mailing-notifications](https://github.com/spryker-feature/mailing-notifications)
+- [spryker-feature/product](https://github.com/spryker-feature/product)
+
+If you don't include the feature dependencies, make sure you use the respective modules instead.
