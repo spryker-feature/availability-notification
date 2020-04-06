@@ -13,7 +13,12 @@
   },
   "extra": {
     "branch-alias": {
-      "dev-master": "202001.x-dev"
+      "dev-master": "202006.x-dev"
     }
+  },
+  "suggest": {
+    "spryker-feature/inventory-management": "Recommended feature dependency.",
+    "spryker-feature/mailing-notifications": "Recommended feature dependency.",
+    "spryker-feature/product": "Recommended feature dependency."
   }
 }
