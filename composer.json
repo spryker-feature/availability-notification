@@ -9,11 +9,11 @@
         "php": ">=8.0",
         "spryker-shop/availability-notification-page": "^1.1.0",
         "spryker-shop/availability-notification-widget": "^1.1.0",
-        "spryker/availability-notification": "^1.1.0"
+        "spryker/availability-notification": "^1.2.0"
     },
     "extra": {
         "branch-alias": {
-            "dev-master": "202211.x-dev"
+            "dev-master": "202212.x-dev"
         }
     },
     "suggest": {
