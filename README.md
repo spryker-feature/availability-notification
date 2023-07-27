@@ -2,6 +2,8 @@
 
 Allows users to subscribe to product availability notifications to receive emails when a product that was out of stock, is back in stock again.
 
+[Learn more](https://docs.spryker.com/docs/pbc/all/warehouse-management-system/202307.0/base-shop/availability-notification-feature-overview.html)
+
 ## Installation
 
 ```
